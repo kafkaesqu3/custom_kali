@@ -1,0 +1,8 @@
+realpath
+tree
+python-pip
+libssl-dev
+libffi-dev
+python-dev
+build-essential
+coreutils
