@@ -1,1 +1,0 @@
-sed -i '/PermitRootLogin/c\PermitRootLogin yes' /etc/ssh/sshd_config

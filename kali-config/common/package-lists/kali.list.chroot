@@ -6,3 +6,5 @@ libffi-dev
 python-dev
 build-essential
 coreutils
+vim-gtk
+vim-gnome
