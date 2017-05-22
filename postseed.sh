@@ -194,22 +194,4 @@ git clone https://github.com/maaaaz/CrackMapExecWin.git /opt/exe/CrackMapExecWin
 git clone https://github.com/mubix/post-exploitation.git /opt/exe/post-exploitation
 # https://github.com/lgandx/Responder-Windows
 git clone https://github.com/lgandx/Responder-Windows.git /opt/exe/Responder-Windows
-wget https://xxx.xxx.xxx.xxx/tools/Sysinternals.zip --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/nirsoft.zip --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/plink.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/NetSess.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/nc.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/wce64.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/wce.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/vncviewer.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/user2sid.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/sid2user.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/putty.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/miadmin.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/wget.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/ShareEnum.exe --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/enum.vbs --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/sqlexecany.vbs --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/sqlexec.vbs --no-check-certificate -O /opt/exe/
-wget https://xxx.xxx.xxx.xxx/tools/wget.vbs --no-check-certificate -O /opt/exe/
 
