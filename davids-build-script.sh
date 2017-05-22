@@ -104,7 +104,7 @@ chmod +x kali-config/common/hooks/05-update-nikto.chroot
 # preseed file for unattended install 
 printf "Fetching preseed file for unattended install\n"
 mkdir -p kali-config/common/includes.installer
-cp preseed.cfg kali-config/common/includes.installer/preseed.cfg 
+cp ../preseed.cfg kali-config/common/includes.installer/preseed.cfg 
 
 printf "adding boot menu options that will process preseed file\n"
 # ref http://www.syslinux.org/wiki/index.php?title=Config
