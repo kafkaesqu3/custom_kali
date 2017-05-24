@@ -27,6 +27,7 @@ echo "open-vm-tools" >> kali-config/common/package-lists/kali.list.chroot
 echo "open-vm-tools-desktop" >> kali-config/common/package-lists/kali.list.chroot
 echo "open-vm-tools-dev" >> kali-config/common/package-lists/kali.list.chroot
 echo "open-vm-tools-dkms" >> kali-config/common/package-lists/kali.list.chroot
+echo "fuse" >> kali-config/common/package-lists/kali.list.chroot
 # ADD YOUR PACKAGES HERE
 
 printf "copying .deb files to packages folder (automatically installed)\n"

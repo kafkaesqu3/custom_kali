@@ -45,7 +45,7 @@ DEBIAN_FRONTEND='noninteractive' apt-get -y -o Dpkg::Options::='--force-confdef'
 DEBIAN_FRONTEND='noninteractive' apt-get -y -o Dpkg::Options::="--force-confdef" -o Dpkg::Options::="--force-confold" dist-upgrade
 
 #kernel headers
-#apt-get install linux-headers-`uname -a`
+apt-get install linux-headers-$(uname -r)
 
 # Initialize msfdb
 msfdb init
@@ -150,7 +150,7 @@ pip install pysmb
 # https://github.com/funkandwagnalls/ranger
 git clone https://github.com/funkandwagnalls/ranger.git /opt/post/ranger
 # setup ranger
-bash /opt/post/ranger/setup.sh
+# bash /opt/post/ranger/setup.sh
 
 #POWERSHELL
 mkdir -p /opt/powershell/
